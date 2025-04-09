@@ -25,4 +25,3 @@ const fread = new NativeFunction(Module.getExportByName('libSystem.B.dylib', 'fr
 const fclose = new NativeFunction(Module.getExportByName('libSystem.B.dylib', 'fclose'), 'void', ["pointer"]);
 const strlen = new NativeFunction(Module.getExportByName('libSystem.B.dylib', 'strlen'), 'int', ["pointer"]);
 // ==========================
-
