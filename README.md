@@ -1,6 +1,6 @@
 # TripleStars BrawlStars iOS Mod ✨
 
-A powerful and unique **Brawl Stars iOS Mod** featuring a fully working **mod menu built using native iOS alerts** – no Android ports, no clunky UIs, just pure iOS magic.
+A powerful and unique **Brawl Stars iOS Mod** featuring a fully working **mod menu built using native iOS alerts** – no Android ports.
 
 > ⚡️ **Powered by Frida**
 
